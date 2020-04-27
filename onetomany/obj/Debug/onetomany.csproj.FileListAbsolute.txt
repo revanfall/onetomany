@@ -1,0 +1,12 @@
+C:\Users\Ilya\source\repos\onetomany\onetomany\bin\Debug\onetomany.exe.config
+C:\Users\Ilya\source\repos\onetomany\onetomany\bin\Debug\onetomany.exe
+C:\Users\Ilya\source\repos\onetomany\onetomany\bin\Debug\onetomany.pdb
+C:\Users\Ilya\source\repos\onetomany\onetomany\bin\Debug\EntityFramework.dll
+C:\Users\Ilya\source\repos\onetomany\onetomany\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ilya\source\repos\onetomany\onetomany\bin\Debug\EntityFramework.xml
+C:\Users\Ilya\source\repos\onetomany\onetomany\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ilya\source\repos\onetomany\onetomany\obj\Debug\onetomany.csprojAssemblyReference.cache
+C:\Users\Ilya\source\repos\onetomany\onetomany\obj\Debug\onetomany.csproj.CoreCompileInputs.cache
+C:\Users\Ilya\source\repos\onetomany\onetomany\obj\Debug\onetomany.csproj.CopyComplete
+C:\Users\Ilya\source\repos\onetomany\onetomany\obj\Debug\onetomany.exe
+C:\Users\Ilya\source\repos\onetomany\onetomany\obj\Debug\onetomany.pdb
